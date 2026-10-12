@@ -1,0 +1,6 @@
+{
+  "name": "VocalSpark - Marketing Voice TTS Studio",
+  "description": "Convierte textos y copys de marketing en voz profesional, alegre, dinámica y efusiva con Gemini 3.8 Flash TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
